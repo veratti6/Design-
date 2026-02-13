@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Omer AI Design Studio",
+  "description": "منصة التصميم الإبداعي الأكثر تطوراً Omer، مدعومة بالذكاء الاصطناعي لإنشاء محتوى بصري احترافي متكامل.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
